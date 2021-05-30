@@ -13,7 +13,6 @@ Peel a banana pi
 I C how things are
 Read the daily Java Script
 Replace the kitchen knives with C#
-While teaching a pig latin
 R you there?
 Replace the rusty gears
 Have unity with others
